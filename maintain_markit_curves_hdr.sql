@@ -60,7 +60,7 @@ CREATE OR REPLACE PACKAGE MAINTAIN_MARKIT_CURVES_PKG AS
     --
     --
     --
-    c_curve_typ_sector              CONSTANT VARCHAR2(20) := 'SECTOR';
+    c_curve_typ_sector              CONSTANT VARCHAR2(20) := 'SIDD';
     c_curve_typ_issuer              CONSTANT VARCHAR2(20) := 'ISSUER';
     c_source_typ_input              CONSTANT VARCHAR2(20) := 'INPUT';
     c_frequency_daily               CONSTANT VARCHAR2(20) := 'DAILY';
