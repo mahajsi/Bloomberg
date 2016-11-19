@@ -6,7 +6,7 @@ IS
 /* PACKAGE BODY PVCS $Revision: bloomberg_WIP_deonp/32 $ $Modtime:   Oct 07 2005 14:00:22  $ */
 -----------------------------------------------------------------------------
 --                                                                         --
--- Author    : Multiple                                                     --
+-- Author    : Chinu                                                     --
 -- Product   : Bloomberg Data Interfaces                                   --
 -- Package   : MAINTAIN_BB_SEC_PKG                                         --
 -- Date      : 20-Jun-2002                                                 --
