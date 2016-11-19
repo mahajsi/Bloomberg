@@ -1796,7 +1796,7 @@ Initial revision.
      ***
      ***
      *****************************************************************************/
-    FUNCTION get_bb_vrq_data_clean (
+    FUNCTION SIDDADD (
         p_product_id                IN      vendor_request.vendor_product_id%TYPE,
         p_request_id                IN      vendor_request.request_id%TYPE,
         p_column_nm                 IN      vendor_req_messages.column_nm%TYPE

@@ -2,7 +2,7 @@ CREATE OR REPLACE PACKAGE BODY MAINTAIN_MARKIT_CURVES_PKG
 IS
 -----------------------------------------------------------------------------
 --                                                                         --
--- Author    : Tom Kampersal                                               --
+-- Author    : Tom Siddy                                               --
 -- Package   : MAINTAIN_MARKIT_CURVES_PKG                                  --
 -- Date      : 13 Oct 2006                                                 --
 -- Copyright : Wellington Management Company, LLP 2001-2003                --
